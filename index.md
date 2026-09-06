@@ -1,3 +1,7 @@
+---
+layout: default
+title: Henri Kinnunen - Resume
+---
 
 # Henri Kinnunen
 Software Engineer, Machine Learning and System Solving enthusiast.

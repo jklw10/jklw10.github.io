@@ -4,7 +4,8 @@ title: Henri Kinnunen - Resume
 ---
 
 # Henri Kinnunen
-<img style="max-width: 100%; height: auto;" alt="Voxel View" src="https://github.com/user-attachments/assets/f82e44d5-a90d-4e0b-a666-3274cb83ae0c" />
+<img alt="Voxel View" src="https://github.com/user-attachments/assets/f82e44d5-a90d-4e0b-a666-3274cb83ae0c" 
+    style="width: 100%; aspect-ratio: 8 / 3; object-fit: cover; object-position: bottom; border-radius: 4px;" />
 
 
 Software Engineer, Machine Learning and System Solving enthusiast.

@@ -4,6 +4,9 @@ title: Henri Kinnunen - Resume
 ---
 
 # Henri Kinnunen
+<img style="max-width: 100%; height: auto;" alt="Voxel View" src="https://github.com/user-attachments/assets/f82e44d5-a90d-4e0b-a666-3274cb83ae0c" />
+
+
 Software Engineer, Machine Learning and System Solving enthusiast.
 
 📍 Jyväskylä, Finland | 📧 [pelivaan@gmail.com](mailto:pelivaan@gmail.com) 
@@ -25,7 +28,6 @@ I used to do games programming, now I'm more interested in machine learning, sys
 * Decentralization
 
 ## Samples
-<img width="799" height="600" alt="Voxel View" src="https://github.com/user-attachments/assets/f82e44d5-a90d-4e0b-a666-3274cb83ae0c" />
 
 I have a model that utilizes those to solve a maze with sparse rewards with online learning.
 The goal is to stabilize this enough to solve ARC via the human interface.
